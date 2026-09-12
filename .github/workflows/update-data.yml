@@ -17,7 +17,7 @@ jobs:
   update-data:
     name: Scrape and Update MTGO Data
     runs-on: ubuntu-latest
-    if: ${{ secrets.USER_AGENT != '' }}
+    if: ${{ vars.USER_AGENT != '' }}
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -44,7 +44,7 @@ jobs:
       - name: Run scraper update
         env:
           SCRAPER_SOURCE: "git+https://github.com/davidfischer/modometa-scraper.git"
-          USER_AGENT: ${{ secrets.USER_AGENT }}
+          USER_AGENT: ${{ vars.USER_AGENT }}
         run: ./scripts/update.sh
 
       - name: Commit and push changes

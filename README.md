@@ -90,7 +90,7 @@ A GitHub Action (`.github/workflows/update-data.yml`) runs on a recurring schedu
 - **Operation:** Runs `modometa-scraper` with `--auto-resume` and a 2-day lookback window.
 - **Commits:** If new tournaments or updated 5-0 league decklists are found, changes are committed and pushed automatically.
 - **Manual Trigger:** The workflow can also be triggered manually via GitHub's `workflow_dispatch`.
-- **Required Secret:** Requires a `USER_AGENT` repository secret to be configured in GitHub (**Settings > Secrets and variables > Actions**). If this secret is not present, the workflow job is skipped automatically to prevent unconfigured forks or clones from duplicating the scraping.
+- **Required Variable:** Requires a `USER_AGENT` repository variable to be configured in GitHub (**Settings > Secrets and variables > Actions > Variables** tab). If this variable is not present, the workflow job is skipped automatically to prevent unconfigured forks or clones from duplicating the scraping.
 
 ---
 
