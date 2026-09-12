@@ -1,0 +1,20 @@
+# Scryfall bulk data cache
+.cache/
+
+# Scraper logs
+*.log
+
+# Atomic write temp files
+.tmp_*
+*.tmp
+
+# Python / virtual environment artifacts
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+
+# OS artifacts
+.DS_Store
+Thumbs.db
