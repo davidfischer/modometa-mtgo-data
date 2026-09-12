@@ -36,6 +36,14 @@ if [[ "$HAS_RESUME_OR_DATE" == "false" ]]; then
   EXTRA_ARGS=("--auto-resume" "${EXTRA_ARGS[@]}")
 fi
 
-exec uvx --from "$SOURCE" modometa-scraper \
+# If using the scraper locally, don't cache it
+# This is important for local development
+# so the most up-to-date version is run
+UVX_ARGS=()
+if [[ -d "$SOURCE" ]]; then
+  UVX_ARGS+=("--no-cache")
+fi
+
+exec uvx "${UVX_ARGS[@]}" --from "$SOURCE" modometa-scraper \
   --cache-dir "$CACHE_DIR" \
   "${EXTRA_ARGS[@]}"

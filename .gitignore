@@ -3,6 +3,7 @@
 
 # Scraper logs
 *.log
+failed_events*.json
 
 # Atomic write temp files
 .tmp_*
