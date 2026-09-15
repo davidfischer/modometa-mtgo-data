@@ -1,0 +1,650 @@
+{
+  "Tournament": {
+    "Date": "2025-09-02",
+    "Name": "Modern Gold League",
+    "Uri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-029511",
+    "Formats": "Modern"
+  },
+  "Decks": [
+    {
+      "Date": "2025-09-02T00:00:00+00:00",
+      "Player": "Phoenix_Flame",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-029511#deck_Phoenix_Flame",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ardent Plea"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 1,
+          "CardName": "Colossal Skyturtle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Curator of Mysteries"
+        },
+        {
+          "Count": 4,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 3,
+          "CardName": "Living End"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lush Portico"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Press the Enemy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shardless Agent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Striped Riverwinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Subtlety"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temple Garden"
+        },
+        {
+          "Count": 3,
+          "CardName": "Waker of Waves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Windcaller Aven"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Commandeer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deafening Silence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Failure // Comply"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Foundation Breaker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inevitable Betrayal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Teferi, Time Raveler"
+        }
+      ]
+    },
+    {
+      "Date": "2025-09-02T00:00:00+00:00",
+      "Player": "RAND0MSLAY3R",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-029511#deck_RAND0MSLAY3R",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Beyeen Veil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Disrupting Shoal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flare of Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Charbelcher"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroelectric Specimen"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jwari Disruption"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Bloom"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sea Gate Restoration"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stern Scolding"
+        },
+        {
+          "Count": 4,
+          "CardName": "Suppression Ray"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tameshi, Reality Architect"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Waterlogged Teachings"
+        },
+        {
+          "Count": 4,
+          "CardName": "Whir of Invention"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witch Enchanter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flusterstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harbinger of the Seas"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Unable to Scream"
+        }
+      ]
+    },
+    {
+      "Date": "2025-09-02T00:00:00+00:00",
+      "Player": "Williambax",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-029511#deck_Williambax",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Darksteel Citadel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kappa Cannoneer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lavaspur Boots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Memnite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Opal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ornithopter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pinnacle Emissary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowspear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shivan Reef"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thought Monitor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtcast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Welding Jar"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 3,
+          "CardName": "Whipflare"
+        }
+      ]
+    },
+    {
+      "Date": "2025-09-02T00:00:00+00:00",
+      "Player": "Mogged",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-029511#deck_Mogged",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragon's Rage Channeler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Expressive Iteration"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fiery Islet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutagenic Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slickshot Show-Off"
+        },
+        {
+          "Count": 3,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Violent Urge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abhorrent Oculus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unholy Heat"
+        }
+      ]
+    },
+    {
+      "Date": "2025-09-02T00:00:00+00:00",
+      "Player": "Do0mSwitch",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/modern-gold-league-2025-09-029511#deck_Do0mSwitch",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ajani, Nacatl Pariah"
+        },
+        {
+          "Count": 3,
+          "CardName": "Arena of Glory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arid Mesa"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elegant Parlor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Discharge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Goblin Bombardment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guide of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ocelot Pride"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phlage, Titan of Fire's Fury"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ragavan, Nimble Pilferer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ranger-Captain of Eos"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seasoned Pyromancer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Celestial Purge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Obsidian Charmaw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Orim's Chant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Showdown of the Skalds"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surgical Extraction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wear // Tear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wrath of the Skies"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

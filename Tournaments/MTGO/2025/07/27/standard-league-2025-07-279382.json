@@ -1,0 +1,516 @@
+{
+  "Tournament": {
+    "Date": "2025-07-27",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2025-07-279382",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2025-07-27T00:00:00+00:00",
+      "Player": "pacoelflaco",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-07-279382#deck_pacoelflaco",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Balustrade Wurm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Break Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bushwhack"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cenote Scout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Copperline Gorge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dreadmaw's Ire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fear of Missing Out"
+        },
+        {
+          "Count": 7,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karplusan Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overprotect"
+        },
+        {
+          "Count": 4,
+          "CardName": "Patchwork Beastie"
+        },
+        {
+          "Count": 1,
+          "CardName": "Summon: Brynhildr"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tersa Lightshatter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thornspire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Violent Urge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wildfire Wickerfolk"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lithomantic Barrage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scrapshooter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sword of Once and Future"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinmaw Stormbrood"
+        }
+      ]
+    },
+    {
+      "Date": "2025-07-27T00:00:00+00:00",
+      "Player": "Keeney",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-07-279382#deck_Keeney",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Cecil, Dark Knight"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Mastermind"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Go for the Throat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preacher of the Schism"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Stutter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spyglass Siren"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground River"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Anoint with Affliction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blot Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faebloom Trick"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lord Skitter, Sewer King"
+        },
+        {
+          "Count": 2,
+          "CardName": "Qarsi Revenant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
+        }
+      ]
+    },
+    {
+      "Date": "2025-07-27T00:00:00+00:00",
+      "Player": "tarkanmag",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-07-279382#deck_tarkanmag",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Anoint with Affliction"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blot Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Change the Equation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 4,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deadly Cover-Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deduce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Doomsday Excruciator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dreams of Laguna"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Go for the Throat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jace, the Perfected Mind"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Oildeep Gearhulk"
+        },
+        {
+          "Count": 2,
+          "CardName": "Phantom Interference"
+        },
+        {
+          "Count": 4,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 5,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "The End"
+        },
+        {
+          "Count": 2,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 3,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground River"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Anoint with Affliction"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Mastermind"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Malicious Eclipse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheoldred, the Apocalypse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wail of War"
+        }
+      ]
+    },
+    {
+      "Date": "2025-07-27T00:00:00+00:00",
+      "Player": "mortadela",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-07-279382#deck_mortadela",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Bottomless Pool // Locker Room"
+        },
+        {
+          "Count": 3,
+          "CardName": "Caves of Koilos"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Darkslick Shores"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fear of Isolation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grim Bauble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nurturing Pixie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Optimistic Scavenger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seachrome Coast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spiteful Hexmage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stormchaser's Talent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunpearl Kirin"
+        },
+        {
+          "Count": 3,
+          "CardName": "Underground River"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Defiled Crypt // Cadaver Lab"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grim Bauble"
+        },
+        {
+          "Count": 2,
+          "CardName": "Intimidation Tactics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 2,
+          "CardName": "Momentum Breaker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tinybones Joins Up"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

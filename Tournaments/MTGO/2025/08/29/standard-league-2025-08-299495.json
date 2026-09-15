@@ -1,0 +1,1310 @@
+{
+  "Tournament": {
+    "Date": "2025-08-29",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "JogandoPelado",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_JogandoPelado",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Aven Interrupter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bartz and Boko"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Choco, Seeker of Paradise"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Healer's Hawk"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hushwood Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mockingbird"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sidequest: Raise a Chocobo"
+        },
+        {
+          "Count": 4,
+          "CardName": "Traveling Chocobo"
+        },
+        {
+          "Count": 4,
+          "CardName": "Valley Questcaller"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Dazzling Denial"
+        },
+        {
+          "Count": 4,
+          "CardName": "Devout Decree"
+        },
+        {
+          "Count": 3,
+          "CardName": "Enduring Innocence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "thatguy_champ",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_thatguy_champ",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Final Showdown"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inevitable Defeat"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jeskai Revelation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Teachings"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultima"
+        },
+        {
+          "Count": 2,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kutzil's Flanker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nowhere to Run"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overlord of the Mistmoors"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphinx of Forgotten Lore"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stoic Sphinx"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "Kampo",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_Kampo",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cecil, Dark Knight"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deep-Cavern Bat"
+        },
+        {
+          "Count": 3,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodpits Drowner"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phantom Interference"
+        },
+        {
+          "Count": 3,
+          "CardName": "Restless Reef"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shoot the Sheriff"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spyglass Siren"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stab"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunset Saboteur"
+        },
+        {
+          "Count": 5,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tragic Trajectory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Deathmark"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Faebloom Trick"
+        },
+        {
+          "Count": 1,
+          "CardName": "Intimidation Tactics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Preacher of the Schism"
+        },
+        {
+          "Count": 1,
+          "CardName": "Qarsi Revenant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "Yumajpn",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_Yumajpn",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fear of Missing Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marauding Mako"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Proft's Eidetic Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tersa Lightshatter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vivi Ornitier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 1,
+          "CardName": "Broadside Barrage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Obliterating Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "Manuel_Danninger",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_Manuel_Danninger",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Final Showdown"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gloomlake Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inevitable Defeat"
+        },
+        {
+          "Count": 3,
+          "CardName": "Jeskai Revelation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Helix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mystical Teachings"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ultima"
+        },
+        {
+          "Count": 1,
+          "CardName": "Watery Grave"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Doorkeeper Thrull"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kutzil's Flanker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 1,
+          "CardName": "Overlord of the Mistmoors"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sphinx of Forgotten Lore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tishana's Tidebinder"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "tarkanmag",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_tarkanmag",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Break Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bushwhack"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cenote Scout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fear of Missing Out"
+        },
+        {
+          "Count": 8,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inti, Seneschal of the Sun"
+        },
+        {
+          "Count": 2,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overprotect"
+        },
+        {
+          "Count": 4,
+          "CardName": "Patchwork Beastie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tersa Lightshatter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thornspire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Violent Urge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wildfire Wickerfolk"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Balustrade Wurm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Obliterating Bolt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Witchstalker Frenzy"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "ModiSapiras",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_ModiSapiras",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burnout Bashtronaut"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hired Claw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 21,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorkin Needlehead"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sarkhan, Dragon Ascendant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Twinmaw Stormbrood"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra, Spark Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Magebane Lizard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vengeful Possession"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "Gerardo94",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_Gerardo94",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fear of Missing Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marauding Mako"
+        },
+        {
+          "Count": 5,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Proft's Eidetic Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tersa Lightshatter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vivi Ornitier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wild Ride"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Broadside Barrage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Obliterating Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "chiyou",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_chiyou",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 3,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Emergency Eject"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marang River Regent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 6,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 3,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "Three Steps Ahead"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 2,
+          "CardName": "Devout Decree"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overlord of the Mistmoors"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "neb12r",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_neb12r",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Azure Beastbinder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Botanical Sanctum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bounce Off"
+        },
+        {
+          "Count": 4,
+          "CardName": "Breeding Pool"
+        },
+        {
+          "Count": 2,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 7,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Genemorph Imago"
+        },
+        {
+          "Count": 2,
+          "CardName": "Illvoi Galeblade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ouroboroid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pawpatch Recruit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Vinestalk"
+        },
+        {
+          "Count": 1,
+          "CardName": "Royal Treatment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spyglass Siren"
+        },
+        {
+          "Count": 3,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Willowrush Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Heritage Reclamation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Repulsive Mutation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sab-Sunen, Luxa Embodied"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snakeskin Veil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tishana's Tidebinder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Unable to Scream"
+        }
+      ]
+    },
+    {
+      "Date": "2025-08-29T00:00:00+00:00",
+      "Player": "jjmtg25",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2025-08-299495#deck_jjmtg25",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 4,
+          "CardName": "Agatha's Soul Cauldron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fear of Missing Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marauding Mako"
+        },
+        {
+          "Count": 5,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Proft's Eidetic Memory"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soulstone Sanctuary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steamcore Scholar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tersa Lightshatter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vivi Ornitier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wild Ride"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Broadside Barrage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fire Magic"
+        },
+        {
+          "Count": 2,
+          "CardName": "Obliterating Bolt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quantum Riddler"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torch the Tower"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

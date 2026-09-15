@@ -1,0 +1,236 @@
+{
+  "Tournament": {
+    "Date": "2025-12-07",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-079995",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": "2025-12-07T00:00:00+00:00",
+      "Player": "HEROtsukai",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-079995#deck_HEROtsukai",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Censor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deduce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Indomitable Creativity"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mirrex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mistrise Village"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismari Command"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverglide Pathway"
+        },
+        {
+          "Count": 2,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thundering Falls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Titan of Industry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unable to Scream"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valgavoth, Terror Eater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Volcanic Spite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aether Gust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chandra, Awakened Inferno"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fiery Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of Sanctity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Portal to Phyrexia"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sire of Insanity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sweltering Suns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        }
+      ]
+    },
+    {
+      "Date": "2025-12-07T00:00:00+00:00",
+      "Player": "namanii",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-12-079995#deck_namanii",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Bishop of Wings"
+        },
+        {
+          "Count": 3,
+          "CardName": "Branchloft Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 1,
+          "CardName": "Castle Ardenvale"
+        },
+        {
+          "Count": 4,
+          "CardName": "Collected Company"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enduring Innocence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Giada, Font of Hope"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kayla's Reconstruction"
+        },
+        {
+          "Count": 3,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 6,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Razorverge Thicket"
+        },
+        {
+          "Count": 4,
+          "CardName": "Resplendent Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Righteous Valkyrie"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skyclave Apparition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Temple Garden"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Deafening Silence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eidolon of Rhetoric"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elesh Norn, Mother of Machines"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rest in Peace"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

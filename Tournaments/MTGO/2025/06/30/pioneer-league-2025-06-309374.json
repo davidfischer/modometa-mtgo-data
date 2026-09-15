@@ -1,0 +1,606 @@
+{
+  "Tournament": {
+    "Date": "2025-06-30",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2025-06-309374",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": "2025-06-30T00:00:00+00:00",
+      "Player": "Kerrick_",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-06-309374#deck_Kerrick_",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Castle Ardenvale"
+        },
+        {
+          "Count": 2,
+          "CardName": "Censor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deserted Beach"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dovin's Veto"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Field of Ruin"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hall of Storm Giants"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hengegate Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "March of Otherworldly Light"
+        },
+        {
+          "Count": 3,
+          "CardName": "Memory Deluge"
+        },
+        {
+          "Count": 4,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 4,
+          "CardName": "Omen of the Sea"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sunken Citadel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Supreme Verdict"
+        },
+        {
+          "Count": 4,
+          "CardName": "Teferi, Hero of Dominaria"
+        },
+        {
+          "Count": 3,
+          "CardName": "Temporary Lockdown"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Wandering Emperor"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chrome Host Seedshark"
+        },
+        {
+          "Count": 1,
+          "CardName": "Farewell"
+        },
+        {
+          "Count": 2,
+          "CardName": "High Noon"
+        },
+        {
+          "Count": 3,
+          "CardName": "Knockout Blow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mystical Dispute"
+        },
+        {
+          "Count": 2,
+          "CardName": "Narset, Parter of Veils"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Yorion, Sky Nomad"
+        }
+      ]
+    },
+    {
+      "Date": "2025-06-30T00:00:00+00:00",
+      "Player": "Theagent002",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-06-309374#deck_Theagent002",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Boltwave"
+        },
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chandra, Dressed to Kill"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dreadhorde Arcanist"
+        },
+        {
+          "Count": 4,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Light Up the Stage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lightning Strike"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Soul-Scar Mage"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Raze the Effigy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Redcap Melee"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rending Volley"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scorching Shot"
+        }
+      ]
+    },
+    {
+      "Date": "2025-06-30T00:00:00+00:00",
+      "Player": "hopeof130",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-06-309374#deck_hopeof130",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Copperline Gorge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cori-Steel Cutter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Den of the Bugbear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Emberheart Challenger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Karplusan Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kumano Faces Kakkazan"
+        },
+        {
+          "Count": 4,
+          "CardName": "Light Up the Stage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monastery Swiftspear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monstrous Rage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Play with Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Questing Druid"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ramunap Ruins"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reckless Rage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sokenzan, Crucible of Defiance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Soul-Scar Mage"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spikefield Hazard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stomping Ground"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thornspire Verge"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Heritage Reclamation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pick Your Poison"
+        },
+        {
+          "Count": 3,
+          "CardName": "Redcap Melee"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scorching Shot"
+        },
+        {
+          "Count": 3,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strangle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        }
+      ]
+    },
+    {
+      "Date": "2025-06-30T00:00:00+00:00",
+      "Player": "Arianne",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-06-309374#deck_Arianne",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brightclimb Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptcaller Chariot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fleeting Spirit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greasefang, Okiba Boss"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guardian of New Benalia"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monument to Endurance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Parhelion II"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Hallowblade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shattered Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Go Blank"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vanishing Verse"
+        }
+      ]
+    },
+    {
+      "Date": "2025-06-30T00:00:00+00:00",
+      "Player": "Nuserdog",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2025-06-309374#deck_Nuserdog",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brightclimb Pathway"
+        },
+        {
+          "Count": 4,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryptcaller Chariot"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eiganjo, Seat of the Empire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fleeting Spirit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Geier Reach Sanitarium"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Greasefang, Okiba Boss"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guardian of New Benalia"
+        },
+        {
+          "Count": 4,
+          "CardName": "Monument to Endurance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Parhelion II"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seasoned Hallowblade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shattered Sanctum"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Go Blank"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Vanishing Verse"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
