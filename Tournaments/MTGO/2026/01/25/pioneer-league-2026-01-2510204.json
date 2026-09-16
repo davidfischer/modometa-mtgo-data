@@ -1,0 +1,288 @@
+{
+  "Tournament": {
+    "Date": "2026-01-25",
+    "Name": "Pioneer League",
+    "Uri": "https://www.mtgo.com/decklist/pioneer-league-2026-01-2510204",
+    "Formats": "Pioneer"
+  },
+  "Decks": [
+    {
+      "Date": "2026-01-25T00:00:00+00:00",
+      "Player": "kytk321",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-01-2510204#deck_kytk321",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Aftermath Analyst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arboreal Grazer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arid Archway"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bring to Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Crumbling Vestige"
+        },
+        {
+          "Count": 1,
+          "CardName": "Culling Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Echoing Deeps"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Glasspool Mimic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ipnu Rivulet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Field"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lumra, Bellow of the Woods"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 4,
+          "CardName": "Port of Karfell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Scapeshift"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spelunking"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sylvan Caryatid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Terror of the Peaks"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Wandering Minstrel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground Mortuary"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 3,
+          "CardName": "Culling Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Kaito, Bane of Nightmares"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tishana's Tidebinder"
+        }
+      ]
+    },
+    {
+      "Date": "2026-01-25T00:00:00+00:00",
+      "Player": "BSF75",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pioneer-league-2026-01-2510204#deck_BSF75",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blooming Marsh"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 2,
+          "CardName": "Culling Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Darkbore Pathway"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Go for the Throat"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Maelstrom Pulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mutavault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ouroboroid"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sentinel of the Nameless City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Takenuma, Abandoned Mire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tear Asunder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unholy Annex // Ritual Chamber"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urborg, Tomb of Yawgmoth"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrupt Decay"
+        },
+        {
+          "Count": 1,
+          "CardName": "Carnage Tyrant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Culling Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Go Blank"
+        },
+        {
+          "Count": 2,
+          "CardName": "Invoke Despair"
+        },
+        {
+          "Count": 1,
+          "CardName": "Liliana of the Veil"
+        },
+        {
+          "Count": 1,
+          "CardName": "Necromentia"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shadows' Verdict"
+        },
+        {
+          "Count": 1,
+          "CardName": "Virulent Plague"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
