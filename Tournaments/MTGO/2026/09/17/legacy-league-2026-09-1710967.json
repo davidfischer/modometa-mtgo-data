@@ -1,0 +1,528 @@
+{
+  "Tournament": {
+    "Date": "2026-09-17",
+    "Name": "Legacy League",
+    "Uri": "https://www.mtgo.com/decklist/legacy-league-2026-09-1710967",
+    "Formats": "Legacy"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Robjob4",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-1710967#deck_Robjob4",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Eldrazi Confluence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 4,
+          "CardName": "Giant's Boulder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Karn, the Great Creator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kozilek's Command"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 4,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Planar Nexus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 3,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thundertrap Trainer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ugin's Binding"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ugin, Eye of the Storms"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hullbreacher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Invasion Submersible"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mycosynth Lattice"
+        },
+        {
+          "Count": 1,
+          "CardName": "The One Ring"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "MDecker",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-1710967#deck_MDecker",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Animate Dead"
+        },
+        {
+          "Count": 3,
+          "CardName": "Archon of Cruelty"
+        },
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raph & Mikey, Troublemakers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reanimate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shallow Grave"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unmask"
+        },
+        {
+          "Count": 2,
+          "CardName": "Verdant Catacombs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Bitter Triumph"
+        },
+        {
+          "Count": 2,
+          "CardName": "Collective Brutality"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hexing Squelcher"
+        },
+        {
+          "Count": 1,
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Show and Tell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Stronghold Gambit"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Rabota",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-1710967#deck_Rabota",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Animate Dead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Archon of Cruelty"
+        },
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Badlands"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collective Brutality"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Griselbrand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raph & Mikey, Troublemakers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Raucous Theater"
+        },
+        {
+          "Count": 4,
+          "CardName": "Reanimate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shallow Grave"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground Sea"
+        },
+        {
+          "Count": 4,
+          "CardName": "Unmask"
+        },
+        {
+          "Count": 2,
+          "CardName": "Verdant Catacombs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collective Brutality"
+        },
+        {
+          "Count": 2,
+          "CardName": "Null Rod"
+        },
+        {
+          "Count": 4,
+          "CardName": "Show and Tell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stronghold Gambit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surgical Extraction"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "einstein9998",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-1710967#deck_einstein9998",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Acererak the Archlich"
+        },
+        {
+          "Count": 4,
+          "CardName": "Aluren"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Hedge Maze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Omniscience"
+        },
+        {
+          "Count": 1,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Show and Tell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tropical Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Veil of Summer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Verdant Catacombs"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 3,
+          "CardName": "Carpet of Flowers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Consign to Memory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Damping Sphere"
+        },
+        {
+          "Count": 2,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dismember"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Into the Flood Maw"
+        },
+        {
+          "Count": 1,
+          "CardName": "Veil of Summer"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

@@ -102,6 +102,96 @@
     },
     {
       "Date": "2026-09-16T00:00:00+00:00",
+      "Player": "SoLongGayBowsah",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1611007#deck_SoLongGayBowsah",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ball Lightning"
+        },
+        {
+          "Count": 3,
+          "CardName": "Barbarian Ring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cursed Scroll"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goblin Patrol"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goblin Vandal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grim Lavamancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Incinerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jackal Pup"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mogg Fanatic"
+        },
+        {
+          "Count": 10,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seal of Fire"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Earthquake"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mogg Salvage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overload"
+        },
+        {
+          "Count": 3,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-16T00:00:00+00:00",
       "Player": "TheUnholy",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1611007#deck_TheUnholy",

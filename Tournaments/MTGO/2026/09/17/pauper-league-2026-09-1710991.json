@@ -1,0 +1,552 @@
+{
+  "Tournament": {
+    "Date": "2026-09-17",
+    "Name": "Pauper League",
+    "Uri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1710991",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Potovisck",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1710991#deck_Potovisck",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Melded Moxite"
+        },
+        {
+          "Count": 19,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Searing Blaze"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Guidonick",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1710991#deck_Guidonick",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Battle Screech"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boros Garrison"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fields of Strife"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lunarch Veteran"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 8,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pursue the Past"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rally the Peasants"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Inspector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thrilling Discovery"
+        },
+        {
+          "Count": 3,
+          "CardName": "Wind-Scarred Crag"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Martyr of Sands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thraben Charm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Albreto",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1710991#deck_Albreto",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brinebarrow Intruder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cryoshatter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Miscreant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Faerie Seer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Harrier Strix"
+        },
+        {
+          "Count": 19,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moon-Circuit Hacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ninja of the Deep Hours"
+        },
+        {
+          "Count": 4,
+          "CardName": "Of One Mind"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spellstutter Sprite"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Humbling Elder"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steel Sabotage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Rorix825",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1710991#deck_Rorix825",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 18,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Vision of Love"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cleansing Wildfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 4,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Searing Blaze"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Crestomanci",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1710991#deck_Crestomanci",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Battle Screech"
+        },
+        {
+          "Count": 3,
+          "CardName": "Boros Garrison"
+        },
+        {
+          "Count": 1,
+          "CardName": "Journey to Nowhere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kor Skyfisher"
+        },
+        {
+          "Count": 3,
+          "CardName": "Leonardo, Big Brother"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lunarch Veteran"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mardu Devotee"
+        },
+        {
+          "Count": 3,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 2,
+          "CardName": "Patient Instructor"
+        },
+        {
+          "Count": 16,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismatic Strands"
+        },
+        {
+          "Count": 4,
+          "CardName": "Raffine's Informant"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rally the Peasants"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ramosian Rally"
+        },
+        {
+          "Count": 1,
+          "CardName": "Summon: Choco/Mog"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Inspector"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Circle of Protection: Blue"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 2,
+          "CardName": "Electrickery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hallow"
+        },
+        {
+          "Count": 2,
+          "CardName": "Journey to Nowhere"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "HeartOfErathis",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1710991#deck_HeartOfErathis",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burning-Tree Emissary"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gingerbrute"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Bushwhacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inventor's Axe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rally at the Hornburg"
+        },
+        {
+          "Count": 3,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 3,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 3,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 3,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smash to Smithereens"
+        },
+        {
+          "Count": 2,
+          "CardName": "Suplex"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

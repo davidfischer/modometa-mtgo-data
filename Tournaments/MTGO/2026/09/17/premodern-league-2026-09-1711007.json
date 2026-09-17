@@ -1,0 +1,102 @@
+{
+  "Tournament": {
+    "Date": "2026-09-17",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1711007",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "Martin_Oviedo",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1711007#deck_Martin_Oviedo",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Abeyance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Attunement"
+        },
+        {
+          "Count": 3,
+          "CardName": "Decree of Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Frantic Search"
+        },
+        {
+          "Count": 3,
+          "CardName": "Intuition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opalescence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Parallax Wave"
+        },
+        {
+          "Count": 5,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Replenish"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skycloud Expanse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 3,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meddling Mage"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

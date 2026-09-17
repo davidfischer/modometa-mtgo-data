@@ -1,0 +1,272 @@
+{
+  "Tournament": {
+    "Date": "2026-09-17",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "SilvergillLord",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_SilvergillLord",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Agna Qel'a"
+        },
+        {
+          "Count": 2,
+          "CardName": "Captain Marvel, Earth's Protector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Consult the Star Charts"
+        },
+        {
+          "Count": 3,
+          "CardName": "Day of Judgment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 3,
+          "CardName": "No More Lies"
+        },
+        {
+          "Count": 3,
+          "CardName": "Petrified Hamlet"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Settle the Wreckage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stock Up"
+        },
+        {
+          "Count": 2,
+          "CardName": "Temple of Enlightenment"
+        },
+        {
+          "Count": 3,
+          "CardName": "Three Steps Ahead"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wan Shi Tong, Librarian"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Beza, the Bounding Spring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elspeth, Storm Slayer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pinnacle Starcage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-17T00:00:00+00:00",
+      "Player": "YourDoom25",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-1711015#deck_YourDoom25",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Amalia Benavides Aguirre"
+        },
+        {
+          "Count": 3,
+          "CardName": "Bleachbone Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Case of the Uneaten Feast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 3,
+          "CardName": "Deep-Cavern Bat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 2,
+          "CardName": "Essence Channeler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hinterland Sanctifier"
+        },
+        {
+          "Count": 2,
+          "CardName": "Leonardo, Cutting Edge"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Moseo, Vein's New Dean"
+        },
+        {
+          "Count": 2,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shattered Sanctum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Starscape Cleric"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zora, Spider Fancier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zoraline, Cosmos Caller"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Ancient Vendetta"
+        },
+        {
+          "Count": 2,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 1,
+          "CardName": "Decorum Dissertation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "Strategic Betrayal"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

@@ -1001,6 +1001,124 @@
           "CardName": "Torpor Orb"
         }
       ]
+    },
+    {
+      "Date": "2026-09-16T00:00:00+00:00",
+      "Player": "Craigpuncher",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-1611015#deck_Craigpuncher",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 3,
+          "CardName": "Chainsaw"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dragonfire Blade"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dwalin, Weaponmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dwarven Mauler"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dáin's Company"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giantcraft Helm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Giott, King of the Dwarves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kíli the Resourceful"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lavaspur Boots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline Axe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Lonely Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thorin, Mountain-king"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Basilisk Collar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bofur, Reliable Guardian"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shattered Acolyte"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Queen of Dale"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ]
     }
   ],
   "Rounds": [],
