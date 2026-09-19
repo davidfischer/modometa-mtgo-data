@@ -1,0 +1,248 @@
+{
+  "Tournament": {
+    "Date": "2026-09-19",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-09-1911015",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-19T00:00:00+00:00",
+      "Player": "woopdeloop",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-1911015#deck_woopdeloop",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Aang, Swift Savior"
+        },
+        {
+          "Count": 2,
+          "CardName": "Abandoned Air Temple"
+        },
+        {
+          "Count": 4,
+          "CardName": "Aven Interrupter"
+        },
+        {
+          "Count": 3,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Floodfarm Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hallowed Fountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Jennifer Walters"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meticulous Archive"
+        },
+        {
+          "Count": 4,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Restless Anchorage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 3,
+          "CardName": "Skycoach Conductor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Wondrous Wasp"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wan Shi Tong, Librarian"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Avatar's Wrath"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enduring Curiosity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ghost Vacuum"
+        },
+        {
+          "Count": 2,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requisition Raid"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-19T00:00:00+00:00",
+      "Player": "wolf2222",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-1911015#deck_wolf2222",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 15,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Glimpse the Core"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Promising Vein"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snakeskin Veil"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leatherhead, Swamp Stalker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sandman, Shifting Scoundrel"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Warg Tactics"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

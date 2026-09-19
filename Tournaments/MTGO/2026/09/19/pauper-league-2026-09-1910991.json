@@ -1,0 +1,432 @@
+{
+  "Tournament": {
+    "Date": "2026-09-19",
+    "Name": "Pauper League",
+    "Uri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1910991",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-19T00:00:00+00:00",
+      "Player": "Lionkortss",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1910991#deck_Lionkortss",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Annoyed Altisaur"
+        },
+        {
+          "Count": 4,
+          "CardName": "Arbor Elf"
+        },
+        {
+          "Count": 2,
+          "CardName": "Avenging Hunter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Boarding Party"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 1,
+          "CardName": "Colossal Dreadmask"
+        },
+        {
+          "Count": 3,
+          "CardName": "Eldrazi Repurposer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 2,
+          "CardName": "Highland Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mwonvuli Acid-Moss"
+        },
+        {
+          "Count": 14,
+          "CardName": "Snow-Covered Forest"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Mountain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Structural Distortion"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thermokarst"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Ancient Grudge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Breath Weapon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Deglamer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fiery Cannonade"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gorilla Shaman"
+        },
+        {
+          "Count": 1,
+          "CardName": "Life Goes On"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        },
+        {
+          "Count": 2,
+          "CardName": "Skred"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weather the Storm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-19T00:00:00+00:00",
+      "Player": "HeartOfErathis",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1910991#deck_HeartOfErathis",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Abundant Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancestral Mask"
+        },
+        {
+          "Count": 4,
+          "CardName": "Armadillo Cloak"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ash Barrens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cartouche of Solidarity"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ethereal Armor"
+        },
+        {
+          "Count": 12,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gladecover Scout"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kruphix's Insight"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lifelink"
+        },
+        {
+          "Count": 4,
+          "CardName": "Malevolent Rumble"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rancor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sentinel's Eyes"
+        },
+        {
+          "Count": 3,
+          "CardName": "Silhana Ledgewalker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Slippery Bogle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Utopia Sprawl"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mask of Law and Grace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Ram Through"
+        },
+        {
+          "Count": 3,
+          "CardName": "Scattershot Archer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Spirit Link"
+        },
+        {
+          "Count": 2,
+          "CardName": "Standard Bearer"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-19T00:00:00+00:00",
+      "Player": "ghostdragonzero",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1910991#deck_ghostdragonzero",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Darval, Whose Web Protects"
+        },
+        {
+          "Count": 4,
+          "CardName": "Halo Hopper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Holdout Settlement"
+        },
+        {
+          "Count": 4,
+          "CardName": "Khalni Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leonardo, Big Brother"
+        },
+        {
+          "Count": 4,
+          "CardName": "Martyr's Soul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ornithopter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Walker"
+        },
+        {
+          "Count": 11,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ramosian Rally"
+        },
+        {
+          "Count": 4,
+          "CardName": "Salt Road Packbeast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Search Party Captain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Inspector"
+        },
+        {
+          "Count": 3,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Standard Bearer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ultimate Alliance"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-19T00:00:00+00:00",
+      "Player": "Boquinha",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1910991#deck_Boquinha",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Birchlore Rangers"
+        },
+        {
+          "Count": 2,
+          "CardName": "Distant Melody"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elvish Mystic"
+        },
+        {
+          "Count": 4,
+          "CardName": "Elvish Vanguard"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fyndhorn Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jaspera Sentinel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Priest of Titania"
+        },
+        {
+          "Count": 4,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 2,
+          "CardName": "Salt Road Packbeast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Timberwatch Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Negate"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nylea's Disciple"
+        },
+        {
+          "Count": 1,
+          "CardName": "Prohibit"
+        },
+        {
+          "Count": 1,
+          "CardName": "Scattershot Archer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Valakut Invoker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wellwisher"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

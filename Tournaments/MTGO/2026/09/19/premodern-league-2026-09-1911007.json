@@ -1,0 +1,110 @@
+{
+  "Tournament": {
+    "Date": "2026-09-19",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1911007",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-19T00:00:00+00:00",
+      "Player": "thekid",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-1911007#deck_thekid",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ball Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Barbarian Ring"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodstained Mire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cursed Scroll"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grim Lavamancer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Incinerate"
+        },
+        {
+          "Count": 4,
+          "CardName": "Jackal Pup"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mogg Fanatic"
+        },
+        {
+          "Count": 10,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seal of Fire"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sulfuric Vortex"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Anarchy"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mogg Salvage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Overload"
+        },
+        {
+          "Count": 1,
+          "CardName": "Price of Progress"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

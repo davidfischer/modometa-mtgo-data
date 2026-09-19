@@ -1499,6 +1499,312 @@
           "CardName": "Relic of Progenitus"
         }
       ]
+    },
+    {
+      "Date": "2026-09-18T00:00:00+00:00",
+      "Player": "Garibaby",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1810991#deck_Garibaby",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Balustrade Spy"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dread Return"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elves of Deep Shadow"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gatecreeper Vine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Generous Ent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Land Grant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lead the Stampede"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotleth Giant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 2,
+          "CardName": "Nyxborn Hydra"
+        },
+        {
+          "Count": 4,
+          "CardName": "Overgrown Battlement"
+        },
+        {
+          "Count": 1,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sagu Wildling"
+        },
+        {
+          "Count": 4,
+          "CardName": "Saruli Caretaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Troll of Khazad-dûm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 4,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fang Dragon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Flaring Pain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jack-o'-Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Masked Vandal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Mesmeric Fiend"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Writhing Chrysalis"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-18T00:00:00+00:00",
+      "Player": "JuaKi",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1810991#deck_JuaKi",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Halo Hopper"
+        },
+        {
+          "Count": 1,
+          "CardName": "Holdout Settlement"
+        },
+        {
+          "Count": 4,
+          "CardName": "Khalni Garden"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leonardo, Big Brother"
+        },
+        {
+          "Count": 4,
+          "CardName": "Martyr's Soul"
+        },
+        {
+          "Count": 3,
+          "CardName": "Novice Inspector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ornithopter"
+        },
+        {
+          "Count": 4,
+          "CardName": "Phyrexian Walker"
+        },
+        {
+          "Count": 11,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ramosian Rally"
+        },
+        {
+          "Count": 4,
+          "CardName": "Salt Road Packbeast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Search Party Captain"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spider-Man, Web-Slinger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Thraben Inspector"
+        },
+        {
+          "Count": 3,
+          "CardName": "Winding Way"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Dust to Dust"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Standard Bearer"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thraben Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ultimate Alliance"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-18T00:00:00+00:00",
+      "Player": "GilbertoAntunes",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-09-1810991#deck_GilbertoAntunes",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burning-Tree Emissary"
+        },
+        {
+          "Count": 2,
+          "CardName": "Chain Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clockwork Percussionist"
+        },
+        {
+          "Count": 1,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 3,
+          "CardName": "Experimental Synthesizer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Galvanic Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Bushwhacker"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Tomb Raider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Great Furnace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 14,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rally at the Hornburg"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reckless Impulse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voldaren Epicure"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wrenn's Resolve"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 3,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
     }
   ],
   "Rounds": [],
