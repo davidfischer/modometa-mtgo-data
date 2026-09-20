@@ -1,0 +1,378 @@
+{
+  "Tournament": {
+    "Date": "2026-09-20",
+    "Name": "Standard League",
+    "Uri": "https://www.mtgo.com/decklist/standard-league-2026-09-2011015",
+    "Formats": "Standard"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-20T00:00:00+00:00",
+      "Player": "ventur3",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-2011015#deck_ventur3",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Blazemire Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Blood Crypt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Bloodghast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Carnage, Crimson Chaos"
+        },
+        {
+          "Count": 3,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cool but Rude"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hardened Academic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Inti, Seneschal of the Sun"
+        },
+        {
+          "Count": 4,
+          "CardName": "Iron-Shield Elf"
+        },
+        {
+          "Count": 4,
+          "CardName": "Marauding Mako"
+        },
+        {
+          "Count": 4,
+          "CardName": "Moonshadow"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 3,
+          "CardName": "Practiced Offense"
+        },
+        {
+          "Count": 2,
+          "CardName": "Requiting Hex"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tersa Lightshatter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Avatar's Wrath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Intimidation Tactics"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sheltered by Ghosts"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 2,
+          "CardName": "Strategic Betrayal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 3,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-20T00:00:00+00:00",
+      "Player": "SpaceCoyote_65",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-2011015#deck_SpaceCoyote_65",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Abrade"
+        },
+        {
+          "Count": 3,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eddymurk Crab"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hearth Elemental"
+        },
+        {
+          "Count": 2,
+          "CardName": "Impractical Joke"
+        },
+        {
+          "Count": 5,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismari Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunderflock"
+        },
+        {
+          "Count": 2,
+          "CardName": "Traumatic Critique"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Belion, the Parched"
+        },
+        {
+          "Count": 3,
+          "CardName": "Colorstorm Stallion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ral, Crackling Wit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Slagstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wan Shi Tong, Librarian"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-20T00:00:00+00:00",
+      "Player": "bitwize",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-2011015#deck_bitwize",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 4,
+          "CardName": "Eddymurk Crab"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Out"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hearth Elemental"
+        },
+        {
+          "Count": 1,
+          "CardName": "Impractical Joke"
+        },
+        {
+          "Count": 6,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opt"
+        },
+        {
+          "Count": 4,
+          "CardName": "Prismari Charm"
+        },
+        {
+          "Count": 4,
+          "CardName": "Riverpyre Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sleight of Hand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Pierce"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 4,
+          "CardName": "Spirebluff Canal"
+        },
+        {
+          "Count": 4,
+          "CardName": "Steam Vents"
+        },
+        {
+          "Count": 2,
+          "CardName": "Stormcarved Coast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunderflock"
+        },
+        {
+          "Count": 4,
+          "CardName": "Traumatic Critique"
+        },
+        {
+          "Count": 2,
+          "CardName": "Winternight Stories"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Avengers Disassembled"
+        },
+        {
+          "Count": 2,
+          "CardName": "Belion, the Parched"
+        },
+        {
+          "Count": 2,
+          "CardName": "Broadside Barrage"
+        },
+        {
+          "Count": 3,
+          "CardName": "Colorstorm Stallion"
+        },
+        {
+          "Count": 2,
+          "CardName": "Disdainful Stroke"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flashfreeze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sear"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spell Snare"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
