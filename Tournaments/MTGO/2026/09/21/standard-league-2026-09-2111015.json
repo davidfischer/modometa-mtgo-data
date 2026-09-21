@@ -362,6 +362,120 @@
     },
     {
       "Date": "2026-09-21T00:00:00+00:00",
+      "Player": "Cyber7777",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-2111015#deck_Cyber7777",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom of the Spirit Dragon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Magda, the Hoardmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magmatic Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sarkhan, Dragon Ascendant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinmaw Stormbrood"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Dawn's Truce"
+        },
+        {
+          "Count": 1,
+          "CardName": "Desolation of Smaug"
+        },
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 3,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Legend of Roku"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-21T00:00:00+00:00",
       "Player": "el_navajas",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-2111015#deck_el_navajas",
@@ -487,6 +601,266 @@
         {
           "Count": 2,
           "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-21T00:00:00+00:00",
+      "Player": "TuckerMTG",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-2111015#deck_TuckerMTG",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Ba Sing Se"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bushwhack"
+        },
+        {
+          "Count": 4,
+          "CardName": "Earthbender Ascension"
+        },
+        {
+          "Count": 2,
+          "CardName": "Elven Passage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Escape Tunnel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Esper Origins"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fabled Passage"
+        },
+        {
+          "Count": 14,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Glimpse the Core"
+        },
+        {
+          "Count": 4,
+          "CardName": "Icetill Explorer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 4,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lumbering Worldwagon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Meltstrider's Resolve"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mightform Harmonizer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Promising Vein"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sazh's Chocobo"
+        },
+        {
+          "Count": 1,
+          "CardName": "Surrak, Elusive Hunter"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Keen-Eyed Curator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Leatherhead, Swamp Stalker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Meltstrider's Gear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mossborn Hydra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sapling Nursery"
+        },
+        {
+          "Count": 2,
+          "CardName": "Surrak, Elusive Hunter"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Scouring Stormsoul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Torpor Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-21T00:00:00+00:00",
+      "Player": "AgrusKos93",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-2111015#deck_AgrusKos93",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Amalia Benavides Aguirre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aunt May"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bleachbone Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "Case of the Uneaten Feast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Concealed Courtyard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 4,
+          "CardName": "Deep-Cavern Bat"
+        },
+        {
+          "Count": 2,
+          "CardName": "Emptiness"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enduring Innocence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 4,
+          "CardName": "Godless Shrine"
+        },
+        {
+          "Count": 3,
+          "CardName": "Haliya, Guided by Light"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hinterland Sanctifier"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lunar Convocation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Moseo, Vein's New Dean"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 3,
+          "CardName": "Shattered Sanctum"
+        },
+        {
+          "Count": 3,
+          "CardName": "Starscape Cleric"
+        },
+        {
+          "Count": 4,
+          "CardName": "Starting Town"
+        },
+        {
+          "Count": 2,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 3,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 1,
+          "CardName": "Zoraline, Cosmos Caller"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Curious Farm Animals"
+        },
+        {
+          "Count": 1,
+          "CardName": "Decorum Dissertation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dewdrop Cure"
+        },
+        {
+          "Count": 1,
+          "CardName": "Enduring Tenacity"
+        },
+        {
+          "Count": 1,
+          "CardName": "Erode"
+        },
+        {
+          "Count": 3,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 1,
+          "CardName": "Phyrexian Arena"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "Shoot the Sheriff"
         }
       ]
     }
