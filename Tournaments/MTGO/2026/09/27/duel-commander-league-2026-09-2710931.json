@@ -825,6 +825,336 @@
           "CardName": "Tasigur, the Golden Fang"
         }
       ]
+    },
+    {
+      "Date": "2026-09-27T00:00:00+00:00",
+      "Player": "Daddykarn",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/duel-commander-league-2026-09-2710931#deck_Daddykarn",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Academy Ruins"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aether Spellbomb"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcane Signet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcbound Ravager"
+        },
+        {
+          "Count": 1,
+          "CardName": "Arcum's Astrolabe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Basalt Monolith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Candy Trail"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chromatic Sphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chromatic Star"
+        },
+        {
+          "Count": 1,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 1,
+          "CardName": "Claws of Gix"
+        },
+        {
+          "Count": 1,
+          "CardName": "Conjurer's Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 1,
+          "CardName": "Darksteel Citadel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruption Protocol"
+        },
+        {
+          "Count": 1,
+          "CardName": "Disruptor Flute"
+        },
+        {
+          "Count": 1,
+          "CardName": "Engineered Explosives"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ensnaring Bridge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Everflowing Chalice"
+        },
+        {
+          "Count": 1,
+          "CardName": "Expedition Map"
+        },
+        {
+          "Count": 1,
+          "CardName": "Force Spike"
+        },
+        {
+          "Count": 1,
+          "CardName": "Forensic Gadgeteer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gemstone Caverns"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gitaxian Probe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Grindstone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Intuition"
+        },
+        {
+          "Count": 1,
+          "CardName": "Inventors' Fair"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jeweled Amulet"
+        },
+        {
+          "Count": 1,
+          "CardName": "Kappa Cannoneer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Krang, Master Mind"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lazotep Quarry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lodestone Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mana Leak"
+        },
+        {
+          "Count": 1,
+          "CardName": "Memnite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mental Misstep"
+        },
+        {
+          "Count": 1,
+          "CardName": "Metallic Rebuke"
+        },
+        {
+          "Count": 1,
+          "CardName": "Minamo, School at Water's Edge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mind Stone"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mishra's Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Moonsnare Prototype"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ornithopter"
+        },
+        {
+          "Count": 1,
+          "CardName": "Otawara, Soaring City"
+        },
+        {
+          "Count": 1,
+          "CardName": "Painter's Servant"
+        },
+        {
+          "Count": 1,
+          "CardName": "Paradox Engine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Pithing Needle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Remand"
+        },
+        {
+          "Count": 1,
+          "CardName": "Retrofitter Foundry"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sai, Master Thopterist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Seat of the Synod"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sewer-veillance Cam"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shadowspear"
+        },
+        {
+          "Count": 1,
+          "CardName": "Shield Sphere"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sink into Stupor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skateboard"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skullclamp"
+        },
+        {
+          "Count": 21,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Soul-Guide Lantern"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spell Snare"
+        },
+        {
+          "Count": 1,
+          "CardName": "Spellskite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Springleaf Drum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tangle Wire"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tezzeret, Cruel Captain"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Fantasticar"
+        },
+        {
+          "Count": 1,
+          "CardName": "The Mycosynth Gardens"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 1,
+          "CardName": "Transmute Artifact"
+        },
+        {
+          "Count": 1,
+          "CardName": "Treasure Vault"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Bauble"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Cave"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza's Saga"
+        },
+        {
+          "Count": 1,
+          "CardName": "Urza, Lord High Artificer"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vedalken Shackles"
+        },
+        {
+          "Count": 1,
+          "CardName": "Wash Away"
+        },
+        {
+          "Count": 1,
+          "CardName": "Welding Jar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Whir of Invention"
+        },
+        {
+          "Count": 1,
+          "CardName": "Winter Moon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Winter Orb"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Emry, Lurker of the Loch"
+        }
+      ]
     }
   ],
   "Rounds": [],

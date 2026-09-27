@@ -1,0 +1,562 @@
+{
+  "Tournament": {
+    "Date": "2026-09-27",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-09-2711007",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-09-27T00:00:00+00:00",
+      "Player": "els",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-2711007#deck_els",
+      "Mainboard": [
+        {
+          "Count": 2,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 3,
+          "CardName": "Akroma's Vengeance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chromatic Sphere"
+        },
+        {
+          "Count": 4,
+          "CardName": "Decree of Justice"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fact or Fiction"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 2,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mana Leak"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 3,
+          "CardName": "Prohibit"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skycloud Egg"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skycloud Expanse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Mine"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Power Plant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Urza's Tower"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Circle of Protection: Red"
+        },
+        {
+          "Count": 2,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Meddling Mage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Presence of the Master"
+        },
+        {
+          "Count": 1,
+          "CardName": "Teferi's Response"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tormod's Crypt"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-27T00:00:00+00:00",
+      "Player": "Jadisouzaft",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-2711007#deck_Jadisouzaft",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Argothian Enchantress"
+        },
+        {
+          "Count": 1,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 4,
+          "CardName": "Enchantress's Presence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Exploration"
+        },
+        {
+          "Count": 6,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mirri's Guile"
+        },
+        {
+          "Count": 3,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 3,
+          "CardName": "Opalescence"
+        },
+        {
+          "Count": 3,
+          "CardName": "Parallax Wave"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 1,
+          "CardName": "Replenish"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Serra's Sanctum"
+        },
+        {
+          "Count": 1,
+          "CardName": "Solitary Confinement"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sterling Grove"
+        },
+        {
+          "Count": 3,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wild Growth"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gaea's Blessing"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sacred Ground"
+        },
+        {
+          "Count": 1,
+          "CardName": "Solitary Confinement"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tsabo's Web"
+        },
+        {
+          "Count": 4,
+          "CardName": "Xantid Swarm"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-27T00:00:00+00:00",
+      "Player": "maxtheripperhs",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-2711007#deck_maxtheripperhs",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Gempalm Incinerator"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goblin Goon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Lackey"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Matron"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Piledriver"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Ringleader"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goblin Sharpshooter"
+        },
+        {
+          "Count": 2,
+          "CardName": "Goblin Tinkerer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Goblin Warchief"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mogg Fanatic"
+        },
+        {
+          "Count": 16,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 3,
+          "CardName": "Siege-Gang Commander"
+        },
+        {
+          "Count": 1,
+          "CardName": "Skirk Prospector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Anarchy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Goblin Goon"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mogg Salvage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Overload"
+        },
+        {
+          "Count": 3,
+          "CardName": "Pyrokinesis"
+        },
+        {
+          "Count": 3,
+          "CardName": "Red Elemental Blast"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tormod's Crypt"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-27T00:00:00+00:00",
+      "Player": "Martin_Oviedo",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-2711007#deck_Martin_Oviedo",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Abeyance"
+        },
+        {
+          "Count": 4,
+          "CardName": "Adarkar Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 4,
+          "CardName": "Attunement"
+        },
+        {
+          "Count": 3,
+          "CardName": "Decree of Silence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 3,
+          "CardName": "Frantic Search"
+        },
+        {
+          "Count": 3,
+          "CardName": "Intuition"
+        },
+        {
+          "Count": 4,
+          "CardName": "Island"
+        },
+        {
+          "Count": 4,
+          "CardName": "Opalescence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Parallax Wave"
+        },
+        {
+          "Count": 5,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Replenish"
+        },
+        {
+          "Count": 3,
+          "CardName": "Seal of Cleansing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Skycloud Expanse"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Defense Grid"
+        },
+        {
+          "Count": 3,
+          "CardName": "Exalted Angel"
+        },
+        {
+          "Count": 4,
+          "CardName": "Meddling Mage"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-27T00:00:00+00:00",
+      "Player": "Wandervalt",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-09-2711007#deck_Wandervalt",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Armageddon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Aura of Silence"
+        },
+        {
+          "Count": 1,
+          "CardName": "Battlefield Forge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Brushland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Call of the Herd"
+        },
+        {
+          "Count": 3,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 2,
+          "CardName": "Karplusan Forest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mox Diamond"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 3,
+          "CardName": "Nimble Mongoose"
+        },
+        {
+          "Count": 2,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rishadan Port"
+        },
+        {
+          "Count": 1,
+          "CardName": "Rith's Grove"
+        },
+        {
+          "Count": 1,
+          "CardName": "Secluded Steppe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swords to Plowshares"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sylvan Library"
+        },
+        {
+          "Count": 4,
+          "CardName": "Terravore"
+        },
+        {
+          "Count": 2,
+          "CardName": "Treetop Village"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wasteland"
+        },
+        {
+          "Count": 3,
+          "CardName": "Weathered Wayfarer"
+        },
+        {
+          "Count": 2,
+          "CardName": "Werebear"
+        },
+        {
+          "Count": 4,
+          "CardName": "Windswept Heath"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cursed Totem"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hidden Gibbons"
+        },
+        {
+          "Count": 1,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ray of Revelation"
+        },
+        {
+          "Count": 1,
+          "CardName": "Reprisal"
+        },
+        {
+          "Count": 2,
+          "CardName": "Zuran Orb"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
