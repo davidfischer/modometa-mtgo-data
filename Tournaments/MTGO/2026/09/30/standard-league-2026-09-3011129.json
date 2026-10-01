@@ -500,6 +500,116 @@
     },
     {
       "Date": "2026-09-30T00:00:00+00:00",
+      "Player": "ZaqueInc",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-3011129#deck_ZaqueInc",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Burst Lightning"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 4,
+          "CardName": "Clarion Conqueror"
+        },
+        {
+          "Count": 2,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Maelstrom of the Spirit Dragon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Magda, the Hoardmaster"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magmatic Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Momo, Friendly Flier"
+        },
+        {
+          "Count": 1,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Multiversal Passage"
+        },
+        {
+          "Count": 4,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sarkhan, Dragon Ascendant"
+        },
+        {
+          "Count": 4,
+          "CardName": "Smaug the Magnificent"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 2,
+          "CardName": "Twinmaw Stormbrood"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voice of Victory"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Get Lost"
+        },
+        {
+          "Count": 4,
+          "CardName": "Price of Freedom"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyroclasm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 4,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 2,
+          "CardName": "The Legend of Roku"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-30T00:00:00+00:00",
       "Player": "Predrag133",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-3011129#deck_Predrag133",
@@ -841,6 +951,112 @@
         {
           "Count": 3,
           "CardName": "Torpor Orb"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-30T00:00:00+00:00",
+      "Player": "orbital_period",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/standard-league-2026-09-3011129#deck_orbital_period",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Belladonna Took"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dalkovan Encampment"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fountainport"
+        },
+        {
+          "Count": 4,
+          "CardName": "Frontline Rush"
+        },
+        {
+          "Count": 4,
+          "CardName": "Inspiring Vantage"
+        },
+        {
+          "Count": 5,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Plains"
+        },
+        {
+          "Count": 4,
+          "CardName": "Political Triumph"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sacred Foundry"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 4,
+          "CardName": "Song of Totentanz"
+        },
+        {
+          "Count": 4,
+          "CardName": "Stadium Headliner"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suki, Courageous Rescuer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sunbillow Verge"
+        },
+        {
+          "Count": 4,
+          "CardName": "The Last Ronin's Technique"
+        },
+        {
+          "Count": 3,
+          "CardName": "Torch the Tower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Voice of Victory"
+        },
+        {
+          "Count": 4,
+          "CardName": "Warleader's Call"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Bilbo's Gambit"
+        },
+        {
+          "Count": 2,
+          "CardName": "Pyrrhic Strike"
+        },
+        {
+          "Count": 4,
+          "CardName": "Rest in Peace"
+        },
+        {
+          "Count": 2,
+          "CardName": "Seam Rip"
+        },
+        {
+          "Count": 3,
+          "CardName": "Sunspine Lynx"
+        },
+        {
+          "Count": 1,
+          "CardName": "Torch the Tower"
         }
       ]
     }
