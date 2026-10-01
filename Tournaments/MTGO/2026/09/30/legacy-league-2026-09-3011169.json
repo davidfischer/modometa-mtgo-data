@@ -8,6 +8,250 @@
   "Decks": [
     {
       "Date": "2026-09-30T00:00:00+00:00",
+      "Player": "Enrichetta",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-3011169#deck_Enrichetta",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 4,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doomsday"
+        },
+        {
+          "Count": 1,
+          "CardName": "Edge of Autumn"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lion's Eye Diamond"
+        },
+        {
+          "Count": 3,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 3,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Personal Tutor"
+        },
+        {
+          "Count": 2,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 2,
+          "CardName": "Samut, Tyrant of Naktamun"
+        },
+        {
+          "Count": 2,
+          "CardName": "Scalding Tarn"
+        },
+        {
+          "Count": 1,
+          "CardName": "Snow-Covered Island"
+        },
+        {
+          "Count": 2,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 3,
+          "CardName": "Tamiyo, Inquisitive Student"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thassa's Oracle"
+        },
+        {
+          "Count": 1,
+          "CardName": "Theorist's Proxy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Tundra"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground Sea"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Brazen Borrower"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dauthi Voidwalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 4,
+          "CardName": "Murktide Regent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Portable Hole"
+        },
+        {
+          "Count": 1,
+          "CardName": "Voice of Victory"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-30T00:00:00+00:00",
+      "Player": "-Artsipappa-",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-3011169#deck_-Artsipappa-",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Ancient Tomb"
+        },
+        {
+          "Count": 2,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Broadside Bombardiers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chalice of the Void"
+        },
+        {
+          "Count": 4,
+          "CardName": "Chrome Mox"
+        },
+        {
+          "Count": 4,
+          "CardName": "City of Traitors"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fable of the Mirror-Breaker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiery Confluence"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fury"
+        },
+        {
+          "Count": 4,
+          "CardName": "Magus of the Moon"
+        },
+        {
+          "Count": 4,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Nova Hellkite"
+        },
+        {
+          "Count": 4,
+          "CardName": "Screaming Nemesis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Shatterskull Smashing"
+        },
+        {
+          "Count": 4,
+          "CardName": "Simian Spirit Guide"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sundering Eruption"
+        },
+        {
+          "Count": 4,
+          "CardName": "The One Ring"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Blood Moon"
+        },
+        {
+          "Count": 2,
+          "CardName": "Eldrazi Confluence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 1,
+          "CardName": "Fiery Confluence"
+        },
+        {
+          "Count": 2,
+          "CardName": "Grafdigger's Cage"
+        },
+        {
+          "Count": 2,
+          "CardName": "Summon: Bahamut"
+        },
+        {
+          "Count": 4,
+          "CardName": "Trinisphere"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-30T00:00:00+00:00",
       "Player": "ilton",
       "Result": "5-0",
       "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-3011169#deck_ilton",
@@ -543,6 +787,144 @@
         {
           "Count": 3,
           "CardName": "Pyroblast"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-30T00:00:00+00:00",
+      "Player": "boryas",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-3011169#deck_boryas",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cabal Ritual"
+        },
+        {
+          "Count": 1,
+          "CardName": "Cavern of Souls"
+        },
+        {
+          "Count": 1,
+          "CardName": "Consider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Dark Ritual"
+        },
+        {
+          "Count": 2,
+          "CardName": "Daze"
+        },
+        {
+          "Count": 4,
+          "CardName": "Doomsday"
+        },
+        {
+          "Count": 2,
+          "CardName": "Edge of Autumn"
+        },
+        {
+          "Count": 3,
+          "CardName": "Flooded Strand"
+        },
+        {
+          "Count": 2,
+          "CardName": "Flow State"
+        },
+        {
+          "Count": 4,
+          "CardName": "Force of Will"
+        },
+        {
+          "Count": 1,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Jace, Wielder of Mysteries"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lion's Eye Diamond"
+        },
+        {
+          "Count": 2,
+          "CardName": "Lotus Petal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Marsh Flats"
+        },
+        {
+          "Count": 3,
+          "CardName": "Personal Tutor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Ponder"
+        },
+        {
+          "Count": 3,
+          "CardName": "Street Wraith"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thassa's Oracle"
+        },
+        {
+          "Count": 2,
+          "CardName": "Theorist's Proxy"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
+        },
+        {
+          "Count": 1,
+          "CardName": "Undercity Sewers"
+        },
+        {
+          "Count": 4,
+          "CardName": "Underground Sea"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Barrowgoyf"
+        },
+        {
+          "Count": 3,
+          "CardName": "Dauthi Voidwalker"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fatal Push"
+        },
+        {
+          "Count": 2,
+          "CardName": "Force of Negation"
+        },
+        {
+          "Count": 3,
+          "CardName": "Murktide Regent"
         }
       ]
     },
@@ -1135,6 +1517,148 @@
         {
           "Count": 1,
           "CardName": "Twinshot Sniper"
+        }
+      ]
+    },
+    {
+      "Date": "2026-09-30T00:00:00+00:00",
+      "Player": "Benat",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/legacy-league-2026-09-3011169#deck_Benat",
+      "Mainboard": [
+        {
+          "Count": 3,
+          "CardName": "Allosaurus Shepherd"
+        },
+        {
+          "Count": 1,
+          "CardName": "Atraxa, Grand Unifier"
+        },
+        {
+          "Count": 4,
+          "CardName": "Badgermole Cub"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bayou"
+        },
+        {
+          "Count": 1,
+          "CardName": "Boseiju, Who Endures"
+        },
+        {
+          "Count": 1,
+          "CardName": "Collector Ouphe"
+        },
+        {
+          "Count": 1,
+          "CardName": "Craterhoof Behemoth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Dryad Arbor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Eladamri, Korvecdal"
+        },
+        {
+          "Count": 1,
+          "CardName": "Elvish Visionary"
+        },
+        {
+          "Count": 1,
+          "CardName": "Endurance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 3,
+          "CardName": "Formidable Speaker"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fyndhorn Elves"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gaea's Cradle"
+        },
+        {
+          "Count": 4,
+          "CardName": "Green Sun's Zenith"
+        },
+        {
+          "Count": 2,
+          "CardName": "Llanowar Elves"
+        },
+        {
+          "Count": 2,
+          "CardName": "Misty Rainforest"
+        },
+        {
+          "Count": 4,
+          "CardName": "Natural Order"
+        },
+        {
+          "Count": 3,
+          "CardName": "Once Upon a Time"
+        },
+        {
+          "Count": 3,
+          "CardName": "Quirion Ranger"
+        },
+        {
+          "Count": 1,
+          "CardName": "Temur Sabertooth"
+        },
+        {
+          "Count": 2,
+          "CardName": "Verdant Catacombs"
+        },
+        {
+          "Count": 1,
+          "CardName": "Vibrance"
+        },
+        {
+          "Count": 2,
+          "CardName": "Windswept Heath"
+        },
+        {
+          "Count": 4,
+          "CardName": "Wirewood Symbiote"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wooded Foothills"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Choke"
+        },
+        {
+          "Count": 3,
+          "CardName": "Force of Vigor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Hogaak, Arisen Necropolis"
+        },
+        {
+          "Count": 4,
+          "CardName": "Leyline of the Void"
+        },
+        {
+          "Count": 2,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 3,
+          "CardName": "Thoughtseize"
         }
       ]
     },
