@@ -1,0 +1,264 @@
+{
+  "Tournament": {
+    "Date": "2026-10-04",
+    "Name": "Premodern League",
+    "Uri": "https://www.mtgo.com/decklist/premodern-league-2026-10-0411145",
+    "Formats": "Premodern"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-04T00:00:00+00:00",
+      "Player": "funileirodoidao",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-0411145#deck_funileirodoidao",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Accumulated Knowledge"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 3,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fact or Fiction"
+        },
+        {
+          "Count": 4,
+          "CardName": "Foil"
+        },
+        {
+          "Count": 4,
+          "CardName": "Gush"
+        },
+        {
+          "Count": 2,
+          "CardName": "Impulse"
+        },
+        {
+          "Count": 11,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lim-Dûl's Vault"
+        },
+        {
+          "Count": 4,
+          "CardName": "Polluted Delta"
+        },
+        {
+          "Count": 4,
+          "CardName": "Portent"
+        },
+        {
+          "Count": 1,
+          "CardName": "Powder Keg"
+        },
+        {
+          "Count": 4,
+          "CardName": "Psychatog"
+        },
+        {
+          "Count": 2,
+          "CardName": "Sickening Dreams"
+        },
+        {
+          "Count": 3,
+          "CardName": "Smother"
+        },
+        {
+          "Count": 4,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 1,
+          "CardName": "Thwart"
+        },
+        {
+          "Count": 1,
+          "CardName": "Underground River"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 2,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Back to Basics"
+        },
+        {
+          "Count": 1,
+          "CardName": "Blue Elemental Blast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Chain of Vapor"
+        },
+        {
+          "Count": 1,
+          "CardName": "Control Magic"
+        },
+        {
+          "Count": 1,
+          "CardName": "Duress"
+        },
+        {
+          "Count": 2,
+          "CardName": "Engineered Plague"
+        },
+        {
+          "Count": 1,
+          "CardName": "Haunting Echoes"
+        },
+        {
+          "Count": 3,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 1,
+          "CardName": "Morphling"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-04T00:00:00+00:00",
+      "Player": "otaba",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/premodern-league-2026-10-0411145#deck_otaba",
+      "Mainboard": [
+        {
+          "Count": 1,
+          "CardName": "Academy Rector"
+        },
+        {
+          "Count": 4,
+          "CardName": "Aluren"
+        },
+        {
+          "Count": 3,
+          "CardName": "Birds of Paradise"
+        },
+        {
+          "Count": 3,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 4,
+          "CardName": "Cavern Harpy"
+        },
+        {
+          "Count": 3,
+          "CardName": "City of Brass"
+        },
+        {
+          "Count": 5,
+          "CardName": "Forest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Gemstone Mine"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ghitu Slinger"
+        },
+        {
+          "Count": 4,
+          "CardName": "Havenwood Battleground"
+        },
+        {
+          "Count": 3,
+          "CardName": "Llanowar Wastes"
+        },
+        {
+          "Count": 4,
+          "CardName": "Man-o'-War"
+        },
+        {
+          "Count": 1,
+          "CardName": "Monk Realist"
+        },
+        {
+          "Count": 4,
+          "CardName": "Raven Familiar"
+        },
+        {
+          "Count": 2,
+          "CardName": "Reflecting Pool"
+        },
+        {
+          "Count": 2,
+          "CardName": "Spike Feeder"
+        },
+        {
+          "Count": 1,
+          "CardName": "Squee, Goblin Nabob"
+        },
+        {
+          "Count": 4,
+          "CardName": "Survival of the Fittest"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wall of Blossoms"
+        },
+        {
+          "Count": 2,
+          "CardName": "Wall of Roots"
+        },
+        {
+          "Count": 1,
+          "CardName": "Whirlpool Rider"
+        },
+        {
+          "Count": 4,
+          "CardName": "Yavimaya Coast"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 1,
+          "CardName": "Cabal Therapy"
+        },
+        {
+          "Count": 1,
+          "CardName": "Compost"
+        },
+        {
+          "Count": 1,
+          "CardName": "Gaea's Blessing"
+        },
+        {
+          "Count": 3,
+          "CardName": "Naturalize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Tormod's Crypt"
+        },
+        {
+          "Count": 2,
+          "CardName": "Tsabo's Web"
+        },
+        {
+          "Count": 3,
+          "CardName": "Xantid Swarm"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}

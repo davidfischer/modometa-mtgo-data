@@ -1,0 +1,228 @@
+{
+  "Tournament": {
+    "Date": "2026-10-04",
+    "Name": "Pauper League",
+    "Uri": "https://www.mtgo.com/decklist/pauper-league-2026-10-0411153",
+    "Formats": "Pauper"
+  },
+  "Decks": [
+    {
+      "Date": "2026-10-04T00:00:00+00:00",
+      "Player": "Mordeka1ser",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-0411153#deck_Mordeka1ser",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Baleful Strix"
+        },
+        {
+          "Count": 2,
+          "CardName": "Bojuka Bog"
+        },
+        {
+          "Count": 1,
+          "CardName": "Bonder's Ornament"
+        },
+        {
+          "Count": 2,
+          "CardName": "Brainstorm"
+        },
+        {
+          "Count": 2,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cast Down"
+        },
+        {
+          "Count": 3,
+          "CardName": "Contaminated Aquifer"
+        },
+        {
+          "Count": 4,
+          "CardName": "Counterspell"
+        },
+        {
+          "Count": 2,
+          "CardName": "Cut Down"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dimir Aqueduct"
+        },
+        {
+          "Count": 1,
+          "CardName": "Dispel"
+        },
+        {
+          "Count": 1,
+          "CardName": "Extract a Confession"
+        },
+        {
+          "Count": 2,
+          "CardName": "Fallaji Archaeologist"
+        },
+        {
+          "Count": 1,
+          "CardName": "Ice Tunnel"
+        },
+        {
+          "Count": 10,
+          "CardName": "Island"
+        },
+        {
+          "Count": 1,
+          "CardName": "Lose Focus"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lórien Revealed"
+        },
+        {
+          "Count": 2,
+          "CardName": "Murmuring Mystic"
+        },
+        {
+          "Count": 3,
+          "CardName": "Plunder the Trollshaws"
+        },
+        {
+          "Count": 3,
+          "CardName": "Preordain"
+        },
+        {
+          "Count": 1,
+          "CardName": "Sinister Hideout"
+        },
+        {
+          "Count": 4,
+          "CardName": "Snuff Out"
+        },
+        {
+          "Count": 1,
+          "CardName": "Suffocating Fumes"
+        },
+        {
+          "Count": 1,
+          "CardName": "Swamp"
+        },
+        {
+          "Count": 2,
+          "CardName": "Thorn of the Black Rose"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 4,
+          "CardName": "Annul"
+        },
+        {
+          "Count": 2,
+          "CardName": "Arms of Hadar"
+        },
+        {
+          "Count": 1,
+          "CardName": "Campfire"
+        },
+        {
+          "Count": 2,
+          "CardName": "Envelop"
+        },
+        {
+          "Count": 4,
+          "CardName": "Hydroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Relic of Progenitus"
+        }
+      ]
+    },
+    {
+      "Date": "2026-10-04T00:00:00+00:00",
+      "Player": "SpikeYou",
+      "Result": "5-0",
+      "AnchorUri": "https://www.mtgo.com/decklist/pauper-league-2026-10-0411153#deck_SpikeYou",
+      "Mainboard": [
+        {
+          "Count": 4,
+          "CardName": "Faithless Looting"
+        },
+        {
+          "Count": 4,
+          "CardName": "Fiery Temper"
+        },
+        {
+          "Count": 3,
+          "CardName": "Fireblast"
+        },
+        {
+          "Count": 4,
+          "CardName": "Grab the Prize"
+        },
+        {
+          "Count": 4,
+          "CardName": "Guttersnipe"
+        },
+        {
+          "Count": 4,
+          "CardName": "Highway Robbery"
+        },
+        {
+          "Count": 4,
+          "CardName": "Kessig Flamebreather"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lava Dart"
+        },
+        {
+          "Count": 4,
+          "CardName": "Lightning Bolt"
+        },
+        {
+          "Count": 19,
+          "CardName": "Mountain"
+        },
+        {
+          "Count": 4,
+          "CardName": "Sneaky Snacker"
+        },
+        {
+          "Count": 2,
+          "CardName": "Voldaren Epicure"
+        }
+      ],
+      "Sideboard": [
+        {
+          "Count": 3,
+          "CardName": "Cast into the Fire"
+        },
+        {
+          "Count": 2,
+          "CardName": "End the Festivities"
+        },
+        {
+          "Count": 2,
+          "CardName": "Faerie Macabre"
+        },
+        {
+          "Count": 4,
+          "CardName": "Pyroblast"
+        },
+        {
+          "Count": 2,
+          "CardName": "Searing Blaze"
+        },
+        {
+          "Count": 2,
+          "CardName": "Smash to Smithereens"
+        }
+      ]
+    }
+  ],
+  "Rounds": [],
+  "Standings": []
+}
